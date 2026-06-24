@@ -201,3 +201,11 @@ header{
   background-color: #fff; 
   padding: 10px;        
 }
+
+a:hover{
+  transition: ease;
+  transition-duration: 1.0s;
+  background-color: #ff8c00;
+  padding: 0px 4px;
+  border-radius: 4px;
+}
